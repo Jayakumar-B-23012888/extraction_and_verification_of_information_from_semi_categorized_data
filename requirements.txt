@@ -1,0 +1,11 @@
+streamlit
+easyocr
+opencv-python
+numpy
+pillow
+spacy
+unstructured
+rapidfuzz
+torch
+torchvision
+torchaudio
